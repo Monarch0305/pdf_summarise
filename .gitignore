@@ -1,0 +1,10 @@
+/Documentation/html/
+/Documentation/man1/
+/t/test-results
+/t/trash directory*
+/__pycache__/
+venv/
+venv/
+__pycache__/
+node_modules/
+.DS_Store
